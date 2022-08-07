@@ -1,0 +1,5 @@
+{
+  "hello": "Hello There",
+  "info": "This text can change from one language to another based on the language the phone is using or the language chosen",
+  "changeLanguage": "Change Language"
+}
